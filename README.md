@@ -8,7 +8,7 @@ Project 1 from Udacity's [Machine Learning Engineer Nenodegree](https://www.udac
 
 ### Description
 
-Using AWS SageMaker to create a web app that interacts with a deployed Recurrent Neural Network (RNN) performing sentiment analysis on movie reviews.
+Used AWS SageMaker to create a web app that interacts with a deployed Recurrent Neural Network (RNN) performing sentiment analysis on movie reviews
 
 - Preprocess data
 - Creating a word dictionary to keep track of most frequently appearing words
