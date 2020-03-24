@@ -4,7 +4,7 @@
 
 ### Source 
 
-Project 1 from Udacity's [Machine Learning Engineer Nenodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
+Project 1 from Udacity's [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 
 ### Description
 
