@@ -1,4 +1,4 @@
-# SageMaker Deployment - Machine Learning
+# SageMaker Machine Learning
 
 ## Project: Sentiment Analysis
 
